@@ -3,7 +3,7 @@
 
 <h3> Algunos datos sobre mi: </h3>
 
-- 🔭 Actualmente, me encontró desarrollado proyecto de uso libre para fundaciones de animales.
+- 🔭 Actualmente, me encuentró desarrollado proyectos de uso libre para fundaciones de animales.
 - 🌱 Tengo poco más de 3 años como desarrollador, mi lenguaje principal es PHP 
 - 👯 Me gustaría en algún momento contribuir en algún desarrollo que ayude a los animales.
 - ❤ Actualmente esta es la plataforma que estoy desarrollando: <a target="_blank" href="https://amoranimal.pandascode.com/login">AmorAnimal</a>
