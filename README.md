@@ -22,10 +22,10 @@
 
 ## 🛠️ My Skills
 <br>
-### 👉 Lenguajes de programasion
 
+### 👉 Lenguajes
 <p align="left"> 
-  
+  &emsp;
   <a href="#">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
@@ -41,8 +41,6 @@
 <a href="#">
     <img alt="Python" src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white"/>
   </a>
-
-
 </p>
 
 ### 👉 Frameworks
@@ -80,9 +78,10 @@
 </p>
 
 ### 👉 Bases de datos
+
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2b4f97?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
  </p>
