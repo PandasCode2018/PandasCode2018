@@ -9,19 +9,15 @@
 - ❤ Actualmente esta es la plataforma que estoy desarrollando: <a target="_blank" href="https://amoranimal.pandascode.com/login">AmorAnimal</a>
 
 ##
-<br>
-<p>Puedes ponerte en contacto conmigo de las siguientes formas:</p> 
-<br>	
+
+### 📠 Puedes ponerte en contacto conmigo de las siguientes formas:
+
 <a target="_blank" href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:gomezrubio359@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:gomezrubio359@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-
-<br> <br>
-
-## 🛠️ My Skills
-<br>
+##
+ <h3>🛠️ My Skills</h3>
 
 ### 👉 Lenguajes
 <p align="left"> 
@@ -104,5 +100,4 @@
   &emsp; 
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
   &emsp;
-    
 </p>
